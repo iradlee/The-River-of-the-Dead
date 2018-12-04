@@ -31,6 +31,12 @@
   "name": "foundations / icon / check / negative",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "65A229DD-25EE-4B35-96A8-1F950AF47F33",
+      "overrideName": "B8780FDC-663E-4EA8-A9D9-56C62A418A70_layerStyle",
+      "value": "3C1A4C5C-107C-486F-AC5F-6B583EF0EC73"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
