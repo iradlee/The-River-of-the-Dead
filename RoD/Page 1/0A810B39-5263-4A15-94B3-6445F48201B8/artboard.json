@@ -47,8 +47,20 @@
   "layerListExpandedType": 2,
   "layers": [
     {
+      "class": "rectangle",
+      "id": "DE9BCC66-4498-4B2D-B123-9018EC3DE466"
+    },
+    {
       "class": "symbolInstance",
       "id": "A9A43C53-DB12-4122-9CBD-013EC5B279D9"
+    },
+    {
+      "class": "bitmap",
+      "id": "ED863A4A-F023-479A-9F1D-83AB6C3ABE25"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3563AE04-2644-4599-AC6A-3A8AAF685A66"
     }
   ],
   "name": "Artboard",
