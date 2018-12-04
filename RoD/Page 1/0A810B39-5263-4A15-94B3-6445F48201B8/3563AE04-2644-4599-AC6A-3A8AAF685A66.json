@@ -33,9 +33,15 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
+<<<<<<< HEAD
       "do_objectID": "65A229DD-25EE-4B35-96A8-1F950AF47F33",
       "overrideName": "B8780FDC-663E-4EA8-A9D9-56C62A418A70_layerStyle",
       "value": "3C1A4C5C-107C-486F-AC5F-6B583EF0EC73"
+=======
+      "do_objectID": "EC1F71DE-870A-4E44-B588-18BF23F28BEB",
+      "overrideName": "B8780FDC-663E-4EA8-A9D9-56C62A418A70_layerStyle",
+      "value": "6AA37C51-D242-4FEB-9FE9-D1DDD5368991"
+>>>>>>> 5f9f373c39d1045a5d30ce8830f9e01c2607b092
     }
   ],
   "resizingConstraint": 63,
