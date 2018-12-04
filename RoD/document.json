@@ -17,6 +17,68 @@
   "colorSpace": 0,
   "do_objectID": "D5889750-FE75-4072-BCE5-EAAD6E61C9C8",
   "foreignLayerStyles": [
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "libraryID": "8C455753-95BD-4F18-8707-50297D085D81",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "6AA37C51-D242-4FEB-9FE9-D1DDD5368991",
+        "name": "# primary / red",
+        "value": {
+          "_class": "style",
+          "blur": {
+            "_class": "blur",
+            "center": "{0.5, 0.5}",
+            "isEnabled": false,
+            "motionAngle": 0,
+            "radius": 5,
+            "saturation": 1,
+            "type": 0
+          },
+          "borders": [
+            {
+              "_class": "border",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.592,
+                "green": 0.592,
+                "red": 0.592
+              },
+              "fillType": 0,
+              "isEnabled": false,
+              "position": 1,
+              "thickness": 0.5
+            }
+          ],
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.2705882352941179,
+                "green": 0.2431372549019608,
+                "red": 0.9137254901960784
+              },
+              "fillType": 0,
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "D8794565-C725-40DF-B6E2-31D187DB1AA7",
+      "sourceLibraryName": "#SDS-UI-Library",
+      "symbolPrivate": false
+    }
   ],
   "foreignSymbols": [
     {
