@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B95F0273-6567-4A73-9D5B-EF9C52E591CF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "55E6FF07-7AF6-4B92-9DC4-897F5547B7D0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "537D3B99-9012-4AF1-AED9-70D2B669F784",
+    "height": 61,
+    "width": 300,
+    "x": 0,
+    "y": 318
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "components / button / primary / L (web)",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F775A11E-0AD8-4D9B-9406-95F791E4DD04",
+      "overrideName": "E6A6221F-35A1-4AB8-AE6F-EE1C9D44AEC1_layerStyle",
+      "value": "620F434F-3B0D-4319-AF5F-696F2EB9200C"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "44287137-51A8-44F9-B2D5-502437A473C7",
+      "overrideName": "2593E36D-7791-4636-B3B1-4959C125FBA5_stringValue",
+      "value": "Sign Up!"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0BE804AC-8F53-44F6-97A5-E279C9F70F80",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C561D99C-AE56-4222-9F9D-B400FE311E50",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

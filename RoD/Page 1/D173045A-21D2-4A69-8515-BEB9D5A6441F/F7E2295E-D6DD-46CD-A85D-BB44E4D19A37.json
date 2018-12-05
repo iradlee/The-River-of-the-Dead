@@ -3,9 +3,10 @@
   "booleanOperation": -1,
   "clippingMask": "{{0, 0}, {1, 1}}",
   "clippingMaskMode": 0,
-  "do_objectID": "ED863A4A-F023-479A-9F1D-83AB6C3ABE25",
+  "do_objectID": "F7E2295E-D6DD-46CD-A85D-BB44E4D19A37",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "139A9FC3-D1C8-410F-BBFC-5F9309267F9E",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -17,15 +18,16 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 310,
-    "width": 395,
-    "x": 403,
-    "y": 101
+    "do_objectID": "40325ED7-D47F-48EF-8CE5-83794D263DBF",
+    "height": 675,
+    "width": 1200,
+    "x": 0,
+    "y": 0
   },
   "hasClippingMask": false,
   "image": {
     "_class": "MSJSONFileReference",
-    "_ref": "images/230eefaf974ae2a954c7129ed3d4ff00eacc8ede.png",
+    "_ref": "images/d3b35650f459cc714334836743ec5f962a0e733b.png",
     "_ref_class": "MSImageData"
   },
   "intendedDPI": 72,
@@ -43,6 +45,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "D724FA2B-C589-4068-B312-EDC03C7F9C5B",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
@@ -53,15 +56,15 @@
       "kModelPropertiesKey": {
         "constraints": {
           "aspectRatio": {
-            "constant": 310,
+            "constant": 675,
             "enabled": 1,
-            "modelID": "constraint_cc20ab1a-b46f-422f-b9cb-7d6f7b236b90",
+            "modelID": "constraint_9ef2a7c8-6433-4d82-a799-d55b5c958353",
             "model_class": "ADModelConstraint",
             "model_version": 0.1,
-            "multiplier": 395
+            "multiplier": 1200
           },
           "automatic": 1,
-          "modelID": "viewConstraints_fad28738-9afd-468e-9a20-821d35e285b8",
+          "modelID": "viewConstraints_b7a0909d-5a57-428c-ae3f-aa9b6c26a21e",
           "model_class": "ADModelViewConstraints",
           "model_version": 0.1,
           "scaleFactor": 1

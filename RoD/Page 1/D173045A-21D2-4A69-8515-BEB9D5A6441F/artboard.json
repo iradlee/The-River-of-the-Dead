@@ -4,14 +4,16 @@
     "_class": "color",
     "alpha": 1,
     "blue": 1,
+    "do_objectID": "AC8EFE4F-1E0C-4EE7-A21F-AF97E4E4D8F4",
     "green": 1,
     "red": 1
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "0A810B39-5263-4A15-94B3-6445F48201B8",
+  "do_objectID": "D173045A-21D2-4A69-8515-BEB9D5A6441F",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "EF1DC4A5-397A-46A4-AA92-8EB75BC77387",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -22,9 +24,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
+    "do_objectID": "ED900248-6D1C-405B-93FA-04614299E6D0",
     "height": 675,
     "width": 1200,
-    "x": 545,
+    "x": 2100,
     "y": 506
   },
   "hasBackgroundColor": false,
@@ -33,6 +36,7 @@
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
+    "do_objectID": "F635FC77-0A05-4869-996C-05407914B1D1",
     "guides": [
     ]
   },
@@ -48,26 +52,38 @@
   "layers": [
     {
       "class": "bitmap",
-      "id": "928EA11C-E8AB-4F64-81C5-5598C95EA307"
+      "id": "F7E2295E-D6DD-46CD-A85D-BB44E4D19A37"
     },
     {
       "class": "rectangle",
-      "id": "DE9BCC66-4498-4B2D-B123-9018EC3DE466"
+      "id": "9E540B1A-62BE-4B86-810F-5E7FAB7B61B6"
     },
     {
-      "class": "symbolInstance",
-      "id": "131CDA5C-CA5B-4494-B3B7-04689ADDCABE"
+      "class": "rectangle",
+      "id": "46588AED-43D5-4D5F-8F01-C727431BB42D"
     },
     {
-      "class": "symbolInstance",
-      "id": "2278AC01-03D4-44BC-8077-4784805F2141"
+      "class": "rectangle",
+      "id": "93BE8633-CE77-46B3-B0BC-CD31E5E050EA"
     },
     {
       "class": "bitmap",
-      "id": "ED863A4A-F023-479A-9F1D-83AB6C3ABE25"
+      "id": "01367389-F87B-4068-941E-71DFC6B67DB4"
+    },
+    {
+      "class": "rectangle",
+      "id": "94649CF8-B407-4DE4-BE23-242A942DE074"
+    },
+    {
+      "class": "group",
+      "id": "C4BCCD02-5082-4130-8FA9-7465CF687FF7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CFA453EA-56CE-4174-9E07-4276757D46DD"
     }
   ],
-  "name": "login_signup",
+  "name": "signup_form",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
@@ -76,6 +92,7 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
+    "do_objectID": "36B68B25-C861-4269-8381-95E2AF27D4F2",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
@@ -84,6 +101,7 @@
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
+    "do_objectID": "488EDCDA-CF50-431D-B82D-04E2A7EE6D3E",
     "guides": [
     ]
   }

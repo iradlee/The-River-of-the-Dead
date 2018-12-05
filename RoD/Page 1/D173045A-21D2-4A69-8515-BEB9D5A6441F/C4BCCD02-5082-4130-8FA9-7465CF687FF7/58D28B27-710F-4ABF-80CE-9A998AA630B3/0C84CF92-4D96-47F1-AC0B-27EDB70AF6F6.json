@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "3563AE04-2644-4599-AC6A-3A8AAF685A66",
+  "do_objectID": "0C84CF92-4D96-47F1-AC0B-27EDB70AF6F6",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -17,8 +17,8 @@
     "constrainProportions": false,
     "height": 24,
     "width": 24,
-    "x": 942,
-    "y": 51
+    "x": 0,
+    "y": 0
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -28,20 +28,14 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "foundations / icon / check / negative",
+  "name": "components / selection control / checkbox / selected",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-<<<<<<< HEAD
-      "do_objectID": "65A229DD-25EE-4B35-96A8-1F950AF47F33",
-      "overrideName": "B8780FDC-663E-4EA8-A9D9-56C62A418A70_layerStyle",
-      "value": "3C1A4C5C-107C-486F-AC5F-6B583EF0EC73"
-=======
-      "do_objectID": "EC1F71DE-870A-4E44-B588-18BF23F28BEB",
-      "overrideName": "B8780FDC-663E-4EA8-A9D9-56C62A418A70_layerStyle",
-      "value": "6AA37C51-D242-4FEB-9FE9-D1DDD5368991"
->>>>>>> 5f9f373c39d1045a5d30ce8830f9e01c2607b092
+      "do_objectID": "D0B9CFD5-A3BC-4247-9AF1-979776CF2195",
+      "overrideName": "718FA7C3-9645-4C3D-918A-384A454BAB6E_layerStyle",
+      "value": "620F434F-3B0D-4319-AF5F-696F2EB9200C"
     }
   ],
   "resizingConstraint": 63,
@@ -56,7 +50,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "A7F1183B-6FA7-4598-9F4C-65AE7A4748B4",
+  "symbolID": "E4F77007-C466-4BD7-86AC-F976BF35606D",
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {

@@ -1,8 +1,8 @@
 {
-  "_class": "page",
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "7DF17D33-CC8F-4361-AA91-869CEA1E9927",
+  "do_objectID": "C4BCCD02-5082-4130-8FA9-7465CF687FF7",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,20 +15,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 0,
-    "width": 0,
-    "x": 0,
-    "y": 0
+    "height": 379,
+    "width": 320,
+    "x": 204,
+    "y": 148
   },
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
-  },
-  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -37,15 +30,31 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "artboard",
-      "id": "0A810B39-5263-4A15-94B3-6445F48201B8"
+      "class": "symbolInstance",
+      "id": "B95F0273-6567-4A73-9D5B-EF9C52E591CF"
     },
     {
-      "class": "artboard",
-      "id": "D173045A-21D2-4A69-8515-BEB9D5A6441F"
+      "class": "group",
+      "id": "58D28B27-710F-4ABF-80CE-9A998AA630B3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3E973670-AE7C-47D9-888F-8A752B4D336C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0D15E7CB-6EF6-4945-9F06-882689D9AF54"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FF28FE64-4455-4420-8ED5-6813F502B839"
+    },
+    {
+      "class": "text",
+      "id": "52F7F295-FFBD-42A1-8EE7-1729510890A2"
     }
   ],
-  "name": "Page 1",
+  "name": "Group 2",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -60,13 +69,8 @@
   },
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
-      "com.animaapp.uses.anima": 1
+      "kModelPropertiesKey": {
+      }
     }
-  },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
   }
 }

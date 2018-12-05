@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2278AC01-03D4-44BC-8077-4784805F2141",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A379AF49-FFFC-4C28-B5A8-6116811DE94E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DC79BDDE-7666-400C-BC58-A615760E4D79",
+    "height": 61,
+    "width": 300,
+    "x": 450,
+    "y": 530
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "components / button / primary / L (web) Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F775A11E-0AD8-4D9B-9406-95F791E4DD04",
+      "overrideName": "E6A6221F-35A1-4AB8-AE6F-EE1C9D44AEC1_layerStyle",
+      "value": "46870831-096C-4193-90C7-FAAB5CC8CE0E"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C59FB792-5F57-410B-9FEC-D1352D6C6852",
+      "overrideName": "2593E36D-7791-4636-B3B1-4959C125FBA5_stringValue",
+      "value": "Login"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "AC2A01A0-CF62-4DC2-9271-F88A740DCE8A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C561D99C-AE56-4222-9F9D-B400FE311E50",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}
